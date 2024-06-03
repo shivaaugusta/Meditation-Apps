@@ -1,4 +1,4 @@
-# Spark - Meditation ✨
+# Spark - Meditation ✨🌈🍭
 
 ![alt text](https://github.com/shivaaugusta/Meditation-Apps/blob/main/src/assets/Spark2.png?raw=true)
 
@@ -15,5 +15,5 @@ A web application for meditation built using React and Vite.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/username/meditation-apps.git
+   git clone https://github.com/shivaaugusta/meditation-apps.git
    ```
